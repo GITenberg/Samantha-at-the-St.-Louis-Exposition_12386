@@ -1,0 +1,27 @@
+_repo: Samantha-at-the-St.-Louis-Exposition_12386
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Holley, Marietta
+    alias: Josiah Allen's wife
+    birthdate: 1836
+    deathdate: 1926
+    gutenberg_agent_id: '1194'
+    url: http://www.gutenberg.org/2009/agents/1194
+    wikipedia: http://en.wikipedia.org/wiki/Marietta_Holley
+description: ''
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12386'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Louisiana Purchase Exposition (1904 : Saint Louis, Mo.) -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Samantha at the St. Louis Exposition
+url: http://www.gutenberg.org/ebooks/12386
